@@ -1,6 +1,4 @@
-from distutils.filelist import findall
 import re
-
 from regex import my_regex
 
 FINDALL_STRING = """
